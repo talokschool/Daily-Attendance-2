@@ -1,0 +1,5 @@
+{
+  "name": "School Attendance Tracker Beta",
+  "description": "A comprehensive student attendance recording system for Kindergarten through Grade 6, featuring real-time reporting, countdown timers, and PDF export capabilities.",
+  "requestFramePermissions": []
+}
