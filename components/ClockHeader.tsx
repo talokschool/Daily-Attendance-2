@@ -50,7 +50,7 @@ export const ClockHeader: React.FC = () => {
              <Clock size={28} />
           </div>
           <div>
-            <h1 className="text-2xl md:text-3xl font-bold text-white tracking-wide">ฺBan Talok School App - ระบบบันทึกการมาเรียน</h1>
+            <h1 className="text-2xl md:text-3xl font-bold text-white tracking-wide">โรงเรียนบ้านตะโละ - ระบบบันทึกการมาเรียน</h1>
             <p className="text-yellow-200 text-sm md:text-base font-medium">{formatDateThai(currentTime)}</p>
           </div>
         </div>
