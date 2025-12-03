@@ -2,7 +2,7 @@ import { ClassInfo } from './types';
 
 // Class Data Configuration
 export const SCHOOL_CLASSES: ClassInfo[] = [
-  { id: 'k2', name: 'ชั้นอนุบาลปีที่ 2', totalStudents: 14, totalMale: 7, totalFemale: 7 },
+  { id: 'k2', name: 'ชั้นอนุบาลปีที่ 2', totalStudents: 15, totalMale: 8, totalFemale: 7 },
   { id: 'k3', name: 'ชั้นอนุบาลปีที่ 3', totalStudents: 20, totalMale: 8, totalFemale: 12 },
   { id: 'p1', name: 'ชั้นประถมศึกษาปีที่ 1', totalStudents: 26, totalMale: 19, totalFemale: 7 },
   { id: 'p2', name: 'ชั้นประถมศึกษาปีที่ 2', totalStudents: 19, totalMale: 10, totalFemale: 9 },
